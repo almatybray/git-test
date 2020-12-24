@@ -11,3 +11,7 @@ stage changes = git add {file_name}
 ... -> Push = git push
 
 git pull - синхронизировать последние изменения
+
+
+
+Hello World
